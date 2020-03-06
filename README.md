@@ -24,7 +24,7 @@ End with an example of getting some data out of the system or using it for a lit
 ## Authors
 
 * **Zhenru Zhou** 
-* **Mayank** 
+* **Mayank Singh** 
 * **Francesca Falzon** 
 
 
